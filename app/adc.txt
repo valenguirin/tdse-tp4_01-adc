@@ -1,1 +1,28 @@
+ADCs_Common_Settings
+Mode    Independent mode
 
+
+ADC_Settings
+Data Alignment    Right alignment
+Scan Conversion Mode    Disabled
+Continuous Conversion Mode    Disabled
+Discontinuous Conversion Mode    Disabled
+
+
+
+ADC_Regular_ConversionMode
+Enable Regular Conversions      Enable
+Number Of Conversion      1
+External Trigger Conversion Source      Regular Conversion launched by software
+      Rank     1
+                Channel        Channel 0
+                Sampling Time    1.5 Cycles
+
+
+
+ADC_Injected_ConversionMode
+Enable Injected Conversions        Disable
+
+
+WatchDog       
+Enable Analog WatchDog Mode      Disable
